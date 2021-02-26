@@ -1,0 +1,3 @@
+[console_scripts]
+pyckage_cli = pyckage_cli.app:main
+
